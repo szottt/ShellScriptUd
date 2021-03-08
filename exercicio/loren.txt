@@ -1,0 +1,6 @@
+https://github.com/traviskaufman/node-lipsum
+http://code.google.com/p/pypsum/
+http://gtklipsum.sourceforge.net/
+http://github.com/gsavage/lorem_ipsum/tree/master
+https://github.com/cerkit/LoremIpsum/
+http://groovyconsole.appspot.com/script/64002
